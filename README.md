@@ -32,7 +32,7 @@ hash_func
 
 感谢
 =========
-* Discuz
+* http://www.partow.net/programming/hashfunctions/index.html
 
 
 如何帮助项目
